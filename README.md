@@ -22,12 +22,12 @@ This is the template login details to use the bank functionality. The project do
 
 #### Account One
 
-- Login: ww
+- Login: lv
 - Password: 1111
 
 #### Account Two
 
-- Login: jp
+- Login: sv
 - Password: 2222
 
 ## Technologies Used
